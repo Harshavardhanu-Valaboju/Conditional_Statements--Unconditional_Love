@@ -30,7 +30,24 @@ This project demonstrates how simple programming concepts can be transformed int
 4. The loop continues until the user enters `yes`.
 5. A sweet message is displayed.
 
-## ▶️ Run the Project
+## Run the Project
 
 ```bash
 python love_project.py
+
+## ▶️ Output
+```bash
+If you want surprise please enter open to get the surprise
+open
+Hello Beautiful
+Choose yes or no for the upcoming question
+
+Do you love me?
+Type answer here :no
+heyy you are lying, give geniune answer
+Enter again :no
+heyy you are lying, give geniune answer
+Enter again :yes
+Yes You are right I Too Love You My Sweetheart (: 
+
+

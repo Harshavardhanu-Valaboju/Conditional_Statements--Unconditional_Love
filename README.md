@@ -34,6 +34,7 @@ This project demonstrates how simple programming concepts can be transformed int
 
 ```bash
 python love_project.py
+```
 
 ## ▶️ Output
 ```bash
